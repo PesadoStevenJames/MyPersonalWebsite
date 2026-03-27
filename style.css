@@ -1,0 +1,48 @@
+body{
+font-family: Arial;
+margin: 0;
+text-align: center;
+}
+
+header{
+background: black;
+color: white;
+padding: 20px;
+}
+
+.about{
+padding: 20px;
+}
+
+.profile{
+width: 260px;
+border-radius:50%;
+}
+
+.hobbies{
+padding: 20px;
+}
+
+.hobby{
+margin: 20px;
+}
+
+.hobby img{
+width: 500px;
+border-radius: 10px;
+}
+
+button{
+padding: 20px;
+background: black;
+color: white;
+}
+
+footer{
+background: black;
+color: white;
+padding: 20px;
+margin-top: 250px;
+}
+
+
